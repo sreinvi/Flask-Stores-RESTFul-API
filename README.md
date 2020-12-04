@@ -1,5 +1,5 @@
 # Flask-Stores-RESTFul-API
-Simple implementation of a RESTFul API where you can register stores to a database and create items that contain a name and a price associated to that store. You are able to also register to the database and, for some endpoints, you need to authenticate using JWT.
+Simple implementation of a RESTFul API where you can register stores to a database and create items that contain a name and a price associated to that store. You are also able to register to the database and, for some endpoints, you need to authenticate using JWT.
 
 # First Thing First
 
